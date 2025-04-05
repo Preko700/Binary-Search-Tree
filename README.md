@@ -81,4 +81,4 @@ dotnet test
 
 ## Autores
 
-- **(Adrián Monge Mairena)[https://github.com/Preko700]** - Implementación y pruebas unitarias
+- **[Adrián Monge Mairena](https://github.com/Preko700)** - Implementación y pruebas unitarias
